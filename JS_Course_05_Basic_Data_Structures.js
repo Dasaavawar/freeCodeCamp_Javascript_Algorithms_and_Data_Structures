@@ -1,6 +1,13 @@
 /* freeCodeCamp - JavaScript Algorithms and Data Structures - Courses - V - Basic Data Structures */
 
 
+/*
+Data can be stored and accessed in many ways. You already know some common JavaScript data structures — arrays and objects.
+
+In this Basic Data Structures course, you'll learn more about the differences between arrays and objects, and which to use in different situations. You'll also learn how to use helpful JS methods like splice() and Object.keys() to access and manipulate data.
+*/
+
+
 /* 1. Basic Data Structures - Use an Array to Store a Collection of Data */
 /*
 The below is an example of the simplest implementation of an array data structure. This is known as a one-dimensional array, meaning it only has one level, or that it does not have any other arrays nested within it. Notice it contains booleans, strings, and numbers, among other valid JavaScript data types:
