@@ -1,6 +1,13 @@
 /* freeCodeCamp - JavaScript Algorithms and Data Structures - Courses - VIII - Functional Programming */
 
 
+/*
+Functional Programming is another popular approach to software development. In Functional Programming, code is organized into smaller, basic functions that can be combined to build complex programs.
+
+In this course, you'll learn the core concepts of Functional Programming including pure functions, how to avoid mutations, and how to write cleaner code with methods like .map() and .filter().
+*/
+
+
 /* 1. Functional Programming - Learn About Functional Programming */
 /*
 Functional programming is a style of programming where solutions are simple, isolated functions, without any side effects outside of the function scope: INPUT -> PROCESS -> OUTPUT
